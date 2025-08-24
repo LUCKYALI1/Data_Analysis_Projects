@@ -27,15 +27,6 @@ Each project focuses on different aspects of data analysis:
 
 ---
 
-## 📂 Example Projects
-
-- 📈 **Employee Insights Dashboard** – Salary analysis, hiring trends, remote vs onsite stats.  
-- 🛒 **Retail Sales Analysis** – Identifying top-selling products and seasonal trends.  
-- 🎓 **Student Performance Study** – Correlation between study hours, attendance, and scores.  
-- 💰 **Financial Data Analysis** – Profitability, expense tracking, and forecasting basics.  
-
----
-
 ## 🚀 Goals of this Repo
 
 ✔ Strengthen my **data analysis foundation**  
